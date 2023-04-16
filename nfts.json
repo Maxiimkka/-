@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Bored Ape#1",
+    "img": "img/ape1.jpg",
+    "description": "Buy now",
+    "price": "256 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#2",
+    "img": "img/ape2.webp",
+    "description": "Buy now",
+    "price": "512 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#3",
+    "img": "img/ape3.png",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#4",
+    "img": "img/ape4.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#5",
+    "img": "img/ape5.webp",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#6",
+    "img": "img/ape3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#7",
+    "img": "img/ape3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#8",
+    "img": "img/ape3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#9",
+    "img": "img/ape3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Bored Ape#10",
+    "img": "img/ape3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection1"
+  },
+  {
+    "name": "Cruptopunk#1",
+    "img": "img/punk1.webp",
+    "description": "Buy now",
+    "price": "256 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#2",
+    "img": "img/punk2.png",
+    "description": "Buy now",
+    "price": "512 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#3",
+    "img": "img/punk3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#4",
+    "img": "img/punk4.webp",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#5",
+    "img": "img/punk5.png",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#6",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#7",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#8",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#9",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Cruptopunk#10",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection2"
+  },
+  {
+    "name": "Yeti#1",
+    "img": "img/yeti1.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#2",
+    "img": "img/yeti2.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#3",
+    "img": "img/yeti3.webp",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#4",
+    "img": "img/yeti4.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#5",
+    "img": "img/yeti5.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#6",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#7",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#8",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#9",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Yeti#10",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection3"
+  },
+  {
+    "name": "Boss Cat#1",
+    "img": "img/cat1.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#2",
+    "img": "img/cat2.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#3",
+    "img": "img/cat3.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#4",
+    "img": "img/cat5.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#5",
+    "img": "img/cat11.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#6",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#7",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#8",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#9",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  },
+  {
+    "name": "Boss Cat#10",
+    "img": "img/ape13.jpg",
+    "description": "Buy now",
+    "price": "1024 ETH",
+    "collection": "collection4"
+  }
+]
